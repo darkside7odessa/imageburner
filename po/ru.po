@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../src/MainWindow.vala:63 ../src/MainWindow.vala:85
 msgid "Change"
-msgstr "Изменить"
+msgstr "Выбрать"
 
 #: ../src/MainWindow.vala:66 ../src/MainWindow.vala:303
 msgid "Open"
@@ -63,7 +63,7 @@ msgstr "Запись"
 
 #: ../src/MainWindow.vala:286
 msgid "Write Image"
-msgstr "Создать образ"
+msgstr "Записать образ"
 
 #: ../src/MainWindow.vala:305
 msgid "_Cancel"
@@ -91,4 +91,4 @@ msgstr "Не выбрано устройство..."
 
 #: ../src/MainWindow.vala:384
 msgid "Ready!"
-msgstr "Всё верно!"
+msgstr "Готово к записи!"
